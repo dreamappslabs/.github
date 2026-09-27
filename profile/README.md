@@ -65,5 +65,5 @@ Our development guidelines comply strictly with the highest international securi
 
 * **Inquiries & Business**: [dreamapps1947@gmail.com](mailto:dreamapps1947@gmail.com)
 * **Official Website**: [https://dreamappsdevs.github.io](https://dreamappsdevs.github.io)
-* **GitHub Organization**: [https://github.com/dreamappsdevs](https://github.com/dreamappsdevs)
+* **GitHub Organization**: [https://github.com/dreamappsdevs](https://github.com/dreamappslabs)
 * **Smart Money AI Privacy Policy**: [https://dreamappsdevs.github.io/policy/smart-money/privacy-policy.html](https://dreamappsdevs.github.io/policy/smart-money/privacy-policy.html)
